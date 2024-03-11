@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  body {
+    width: 100%;
+  }  
+  
+  article {
+    width: fit-content;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #062e1d;    
+  }  
+   
+  img {
+    margin: 30px;   
+  }
+
+  h1 {
+    font-size: 30px;
+    color: #6ace31;
+  }
+
+  h3 {
+    color: violet;
+  }
